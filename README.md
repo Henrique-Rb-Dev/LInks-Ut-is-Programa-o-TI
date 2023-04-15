@@ -1,5 +1,5 @@
-# LInks-Ut-is-Programa-o-TI
-Neste repositória listarei ferramentas e links utéis para profissionais e estudantes de TI
+# LInks-Uteis-Programacao-TI
+Neste repositório listarei ferramentas e links utéis para profissionais e estudantes de TI
 
 https://overapi.com/ site com alguns cheats, modelos prontos, sugestões para código em Várias linguagens
 https://excelformulabot.com/ transforma instruções em fórmulas excel
